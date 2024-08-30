@@ -5,6 +5,6 @@ This repository is for a new food delivery application called "FoodFiesta". The 
 2. Member2
 3. Member3
 # Changes:
-+Developed Feature "X" for feature-user-authentication. 
-+Developed Feature "X" for feature-order-tracking.
-+Developed Feature "X" for feature-payment-system.
+1. Developed Feature "X" for feature-user-authentication. 
+2. Developed Feature "X" for feature-order-tracking.
+3. Developed Feature "X" for feature-payment-system.
